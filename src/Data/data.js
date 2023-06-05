@@ -1,0 +1,72 @@
+export const data = [
+  {
+    id: "123",
+    name: "Sangeetha",
+    batch: "qqq college",
+    gender: "female",
+    yearsofExperience: "3",
+  },
+  {
+    id: "456",
+    name: "Kumar",
+    batch: "mmm college ",
+    gender: "male",
+    yearsofExperience: "2",
+  },
+  {
+    id: "789",
+    name: "Latha",
+    batch: " rrr  college",
+    gender: "female",
+    yearsofExperience: "1",
+  },
+  {
+    id: "900",
+    name: "Gokul",
+    batch: " lll college",
+    gender: "male",
+    yearsofExperience: "5",
+  },
+  {
+    id: "310",
+    name: "Divya",
+    batch: " nnn college",
+    gender: "female",
+    yearsofExperience: "2",
+  },
+  {
+    id: "1061",
+    name: "Suresh",
+    batch: "mmm college",
+    gender: "male",
+    yearsofExperience: "4",
+  },
+  {
+    id: "1772",
+    name: "Deepika",
+    batch: " xxx college",
+    gender: "female",
+    yearsofExperience: "3",
+  },
+  {
+    id: "133345",
+    name: "Rahul",
+    batch: "zzz college",
+    gender: "male",
+    yearsofExperience: "1",
+  },
+  {
+    id: "78814",
+    name: "Meena",
+    batch: " abc college",
+    gender: "female",
+    yearsofExperience: "2",
+  },
+  {
+    id: "15123",
+    name: "Vikram",
+    batch: "amc college",
+    gender: "male",
+    yearsofExperience: "3",
+  }
+];

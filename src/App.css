@@ -1,0 +1,62 @@
+*{
+  padding : 0px; 
+  margin : 0px;
+}
+
+
+.main-component{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+  background-color: white;
+  
+}
+
+.heading{
+  padding : 50px; 
+}
+
+.main-segment{
+  width : 100%;
+  height: 75%;
+  text-align: center;
+  font-weight:lighter ;
+}
+.containers .input-section{
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+ display:grid;
+ gap: 1rem;
+ background-color: rgb(198, 237, 185);
+  
+}
+
+.card-containers{
+  display: grid;
+  gap : 1 rem;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  background-color:rgb(248, 199, 252);
+}
+
+.card{
+  margin :15px;
+}
+
+.add-btn{
+ margin : 10px;
+}
+.btn-area{
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width:900px){
+  .card-containers{
+    display: grid;
+    gap : 1 rem;
+background-color: white;
+
+  grid-template-columns:repeat(2,1fr);
+  }
+}
